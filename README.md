@@ -1,2 +1,2 @@
-This Repository contains the IPL (Indian Premier League) Predictive Analytics Project details.
+This Repository contains the IPL (Indian Cricket Premier League) Predictive Analytics Project details.
 
